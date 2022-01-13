@@ -24,6 +24,16 @@ A system development life cycle or SDLC is essentially a project management mode
 There are 7 primary stages of the modern system development life cycle, and we look at each stage individually.
 
 ### Stages and Best Practices
+ *  #### Planing
+ The planning stage (also called the feasibility stage) is exactly what it sounds like: the phase in which developers will plan for the upcoming project.
+
+It helps to define the problem and scope of any existing systems, as well as determine the objectives for their new systems.
+
+By developing an effective outline for the upcoming development cycle, they'll theoretically catch problems before they affect development.
+
+And help to secure the funding and resources they need to make their plan happen.
+
+Perhaps most importantly, the planning stage sets the project schedule, which can be of key importance if development is for a commercial product that must be sent to market by a certain time.
 
     
 

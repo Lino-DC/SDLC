@@ -4,19 +4,26 @@ Software Development Lifecycle
 
 ## 📜 Table of Contents
 - [What is the software development life cycle](#-What-is-the-software-development-life-cycle)
-- [How the SDLC Works](#How-the-SDLC-Works)
 - [Stages and Best Practices](#Stages-and-Best-Practices)
-    * [1. Identify Current Problems](#1-Identify-Current-Problems)
-    * [2. Planing](#2-Planing)
+    * [1. Planing](#1-Planing)
+    * [2. Analysis](#2-Analysis)
     * [3. Design](#3-Design)
-    * [4. Build](#4-Build)
-    * [5. Code Testing](#5-Code-Testing)
-    * [6. Software Development](#6-Software-Development)
-    * [7. Maintenance](#7-Maintenance)
-- [Different Model](#Different-Models)
+    * [4. Software Development Stage](#4-Software-Development-Stage)
+    * [5. Software Testing Stage](#5-Software-Testing-Stage)
+    * [6. Implementation & Integration](#6.Implementation-&-Integration)
+    * [6. Operations & Maintenance](#6-Operations-&-Maintenance)
+- [Different Models](#Different-Models)
 - [Benefits of the SDLC](#Benefits-of-the-SDLC)
 
-## What is the software development life cycle
 # Overview
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes which outlines, design, develop, test, and eventually deploy information systems or software products with greater regularity, efficiency, and overall quality.
+
+### What is the software development life cycle
+A system development life cycle or SDLC is essentially a project management model. It defines different stages that are necessary to bring a project from its initial idea or conception all the way through to deployment in production and later maintenance.
+
+There are 7 primary stages of the modern system development life cycle, and we look at each stage individually.
+
+### Stages and Best Practices
+
     
 

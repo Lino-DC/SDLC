@@ -1,6 +1,7 @@
 # SDLC
 Software Development Lifecycle
 
+![HeaderImage](./SDLC-7Stages.png)
 
 ## 📜 Table of Contents
 - [What is the software development life cycle](#-What-is-the-software-development-life-cycle)

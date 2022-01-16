@@ -128,6 +128,6 @@ Although the system development life cycle is a project management model in the 
 
 
 ### Benefits of the SDLC
-| Benefits | Detail |
-| ---------- | :---------- |
+|  |  |
+| :---------- | :---------- |
 | Clear Goal Descriptions | Developers clearly know the goals they need to meet and the deliverables they must achieve by a set timeline, lowering the risk of time and resources being wasted.|

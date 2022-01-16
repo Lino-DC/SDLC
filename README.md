@@ -144,8 +144,7 @@ Although the system development life cycle is a project management model in the 
 | Proper Testing Before Installation | SDLC models implement checks and balances to ensure that all software is tested before being installed in greater source code.|
 | Clear Stage Progression | Developers can’t move on to the next age until the prior one is completed and signed off by a manager.|
 | Member Flexibility    | Since SDLCs have well-structured documents for project goals and methodologies, team members can leave and be replaced by new members relatively painlessly.
-|
-| Perfection Is Achievable    | All SDLC stages are meant to feed back into one another. SDLC models can therefore help projects to iterate and improve upon themselves over and over until essentially perfect.|
+|| Perfection Is Achievable    | All SDLC stages are meant to feed back into one another. SDLC models can therefore help projects to iterate and improve upon themselves over and over until essentially perfect.|
 | No One Member Makes or Breaks the Project   | Again, since SDLCs utilize extensive paperwork and guideline documents, it’s a team effort and losing one even major member will not jeopardize the project timeline.|
 
 ### Where is SDLC Used

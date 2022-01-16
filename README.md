@@ -101,3 +101,33 @@ Although the system development life cycle is a project management model in the 
 
 
 ### Different Models
+1. #### Waterfall Model
+    - The waterfall model is the oldest of all SDLC methodologies. It’s linear and straightforward and requires development teams to finish one phase of the project completely before moving on to the next.
+    - Each stage has a separate project plan and takes information from the previous stage to avoid similar issues (if encountered). However, it is vulnerable to early delays and can lead to big problems arising for development teams later down the road.
+
+2. #### Iterative Model
+    - The iterative model focuses on repetition and repeat testing. New versions of a software project are produced at the end of each phase to catch potential errors and allow developers to constantly improve the end product by the time it is ready for market.
+    - One of the upsides to this model is that developers can create a working version of the project relatively early in their development life cycle, so implement the changes are often less expensive.
+
+3. #### Spiral Model
+    - Spiral models are flexible compared to other methodologies. Projects pass through four main phases again and again in a metaphorically spiral motion.
+    - It’s advantageous for large projects since development teams can create very customized products and incorporate any received feedback relatively early in the life cycle. 
+
+
+4. #### V-Model
+    - The V-model (which is short for verification and validation) is quite similar to the waterfall model. A testing phase is incorporated into each development stage to catch potential bugs and defects.
+    - It’s incredibly disciplined and requires a rigorous timeline. But in theory, it illuminates the shortcomings of the main waterfall model by preventing larger bugs from spiraling out of control.
+
+5. #### Big Bang Model
+    - The Big Bang model is incredibly flexible and doesn’t follow a rigorous process or procedure. It even leaves detailed planning behind. It’s mostly used to develop broad ideas when the customer or client isn’t sure what they want. Developers simply start the project with money and resources.
+    - Their output may be closer or farther from what the client eventually realizes they desire. It’s mostly used for smaller projects and experimental life cycles designed to inform other projects in the same company.
+6. #### Agile Model
+    - The agile model is relatively well-known, particularly in the software development industry.
+    - The agile methodology prioritizes fast and ongoing release cycles, utilizing small but incremental changes between releases. This results in more iterations and many more tests compared to other models.
+    - Theoretically, this model helps teams to address small issues as they arise rather than missing them until later, more complex stages of a project.
+
+
+### Benefits of the SDLC
+
+| ---------- | :---------- |
+| Clear Goal Descriptions | Developers clearly know the goals they need to meet and the deliverables they must achieve by a set timeline, lowering the risk of time and resources being wasted.|

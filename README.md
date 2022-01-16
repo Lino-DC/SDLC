@@ -14,7 +14,17 @@ Software Development Lifecycle
     * [6. Implementation & Integration](#6.Implementation-&-Integration)
     * [6. Operations & Maintenance](#6-Operations-&-Maintenance)
 - [Different Models](#Different-Models)
+    * [1. Waterfall Model](#1-Waterfall-Model)
+    * [2. Iterative Model](#2-Iterative-Model)
+    * [3. Spiral Model](#3-Spiral-Model)
+    * [4. V-Model](#4-V-Model)
+    * [5. Big Bang Model](#5-Big-Bang-Model)
+    * [6. Agile Model](#6-Agile-Model)
 - [Benefits of the SDLC](#Benefits-of-the-SDLC)
+- [Where is SDLC Used](#Where-is-SDLC-Used)
+- [What SDLC Model is Best](#What-SDLC-Model-is-Best)
+- [What does AppSec SSDLC look like](#What-Does-AppSec-SSDLC-Look-Like)
+- [The Benefits of SSDLC](#The-Benefits-of-SSDLC)
 
 # Overview
 The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes which outlines, design, develop, test, and eventually deploy information systems or software products with greater regularity, efficiency, and overall quality.
@@ -130,4 +140,34 @@ Although the system development life cycle is a project management model in the 
 ### Benefits of the SDLC
 |  |  |
 | :---------- | :---------- |
-| Clear Goal Descriptions | Developers clearly know the goals they need to meet and the deliverables they must achieve by a set timeline, lowering the risk of time and resources being wasted.|
+| Clear Goal Descriptions   | Developers clearly know the goals they need to meet and the deliverables they must achieve by a set timeline, lowering the risk of time and resources being wasted.|
+| Proper Testing Before Installation | SDLC models implement checks and balances to ensure that all software is tested before being installed in greater source code.|
+| Clear Stage Progression 
+   | Developers can’t move on to the next age until the prior one is completed and signed off by a manager.|
+| Member Flexibility    | Since SDLCs have well-structured documents for project goals and methodologies, team members can leave and be replaced by new members relatively painlessly.
+|
+| Perfection Is Achievable    | All SDLC stages are meant to feed back into one another. SDLC models can therefore help projects to iterate and improve upon themselves over and over until essentially perfect.|
+| No One Member Makes or Breaks the Project   | Again, since SDLCs utilize extensive paperwork and guideline documents, it’s a team effort and losing one even major member will not jeopardize the project timeline.|
+
+### Where is SDLC Used
+- System development life cycles are typically used when developing IT projects.
+- Software development managers will utilize SDLCs to outline various development stages,  make sure everyone completes stages on time and in the correct order, and that the project is delivered as promptly and as bug-free as possible.
+- SDLCs can also be more specifically used by systems analysts as they develop and later implement a new information system.
+
+### What SDLC Model is Best
+- It largely depends on what your team’s goals and resource requirements are.
+- Most IT development teams utilize the agile methodology for their SDLC. However, others may prefer the iterative or spiral methodologies.
+- All three of these methods are popular since they allow for extensive iteration and bug testing before a product is integrated with greater source code or delivered to market.
+- DevOps methodologies are also popular choices. And if you ever need a refresher course on what DevOps is, you needn't worry as our team at Datacom have you covered!
+
+
+### What does AppSec SSDLC look like
+- Datacom’s objective is to ensure that secure software development and design principles are implemented and tested early and during all development stages. This approach allows Datacom to minimize the attack surface area whilst establishing security measures by default and applying the principle of “defense in depth”. 
+
+
+### The Benefits of SSDLC
+- Secure SDLC is the ultimate example of what’s known as a “shift-left” initiative, which refers to integrating security checks as early in the SDLC as possible.
+- Doing so helps development teams properly plan releases, making it easier to catch and address issues that arise that could affect the release timeline. This is most certainly preferable to receiving an unpleasant surprise once the application deploys to production. SSDLC, therefore, helps keep releases on track.
+- What’s more, SSDLC at its core has the security efforts being led by the development team itself. This allows the issues to be fixed by the domain experts who wrote the software rather than having a different team fix the bugs as an afterthought. This empowers developers to take ownership of the overall quality of their applications, which leads to more secure applications being deployed to production.
+- While all the extra effort of security testing within the SDLC process may sound like a lot of work and expensive to build, today, most of it is being automated. 
+- By fixing these issues early in the process, development teams can reduce the total cost of ownership of their applications. Discovering issues late in the SDLC can result in a 100-fold increase in the development cost needed to fix those issues.

@@ -162,7 +162,7 @@ Although the system development life cycle is a project management model in the 
 ### What does AppSec SSDLC look like
 - Datacom’s objective is to ensure that secure software development and design principles are implemented and tested early and during all development stages. This approach allows Datacom to minimize the attack surface area whilst establishing security measures by default and applying the principle of “defense in depth”.
 
-![SSDLC-AppSec](./SDLC Service Mapping.png)
+![SSDLC-AppSec](./SDLCServiceMapping.png)
 
 
 ### The Benefits of SSDLC

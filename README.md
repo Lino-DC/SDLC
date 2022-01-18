@@ -27,6 +27,7 @@ Software Development Lifecycle
 - [The Benefits of SSDLC](#The-Benefits-of-SSDLC)
 - [Secure SDLC Best Practices](#Secure-SDLC-Best-Practices)
 - [SSDLC & DevSecOps](#SSDLC-&-DevSecOps)
+- [SSDLC-Appsec Service Mapping](#SSDLC-Appsec-Service-Mapping)
 
 # Overview
 The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes which outlines, design, develop, test, and eventually deploy information systems or software products with greater regularity, efficiency, and overall quality.

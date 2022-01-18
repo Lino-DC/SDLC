@@ -25,6 +25,8 @@ Software Development Lifecycle
 - [What SDLC Model is Best](#What-SDLC-Model-is-Best)
 - [What does AppSec SSDLC look like](#What-Does-AppSec-SSDLC-Look-Like)
 - [The Benefits of SSDLC](#The-Benefits-of-SSDLC)
+- [Secure SDLC Best Practices](#Secure-SDLC-Best-Practices)
+- [SSDLC & DevSecOps](#SSDLC-&-DevSecOps)
 
 # Overview
 The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes which outlines, design, develop, test, and eventually deploy information systems or software products with greater regularity, efficiency, and overall quality.
@@ -192,7 +194,7 @@ Although the system development life cycle is a project management model in the 
 5. #### Tackle the Big Problems First
 - Focus on the most important issues and actionable fixes rather than addressing every vulnerability found. While it may be possible for newer or smaller applications to fix every security issue that exists, this won’t necessarily work in older and larger applications. A triage approach can also be helpful. This focuses on not only preventing security issues from making it into production, but also ensuring existing vulnerabilities are triaged and addressed over time.
 
-### SSDLC and DevSecOps
+### SSDLC & DevSecOps
 - It’s important to discuss the relationship between SSDLC and [DevSecOps](https://github.com/Lino-DC/DevSecOps). They are sometimes used interchangeably, which can lead to confusion. While SSDLC and DevSecOps are closely linked, they are actually complementary practices. Both SSDLC and DevSecOps focus on empowering developers to have more ownership of their application, ensuring they are doing more than just writing and testing their code to meet functional specifications.
 - Secure SDLC is focused on how the application is designed and built; DevSecOps seeks to shift ownership of the production environment for each application away from traditional IT teams and into the hands of the developers. This lets developers focus on automating build, test, and release processes as much as possible.
 - DevOps and DevSecOps have started a revolution in redefining the role of software developers. This has of course been aided by other major changes, such as cloud transformations. But while empowering developers and accelerating security testing are key to success for most modern organizations, it would be a mistake to view application security as just an automation challenge. Instead, it’s important to drive cultural and process changes that help raise security awareness and considerations early in the development process. This must permeate all parts of the software development life cycle, regardless of whether one calls it SSDLC or DevSecOps.

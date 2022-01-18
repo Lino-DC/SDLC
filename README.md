@@ -171,3 +171,30 @@ Although the system development life cycle is a project management model in the 
 - What’s more, SSDLC at its core has the security efforts being led by the development team itself. This allows the issues to be fixed by the domain experts who wrote the software rather than having a different team fix the bugs as an afterthought. This empowers developers to take ownership of the overall quality of their applications, which leads to more secure applications being deployed to production.
 - While all the extra effort of security testing within the SDLC process may sound like a lot of work and expensive to build, today, most of it is being automated. 
 - By fixing these issues early in the process, development teams can reduce the total cost of ownership of their applications. Discovering issues late in the SDLC can result in a 100-fold increase in the development cost needed to fix those issues.
+
+### Secure SDLC Best Practices
+1. #### Educate Your Developers
+- Secure SDLC goes hand in hand with multiple related initiatives, including: 
+- Creating secure coding guidelines
+- Providing developers with security awareness and secure coding training
+- Setting clear expectations around how quickly issues discovered in production need to be addressed (also known as remediation SLAs).
+- Not all of these need to happen for an effective SSDLC implementation, but much like a jigsaw puzzle, you’ll need to put enough pieces together before you can see the big picture.
+
+2. #### Have Clear Requirements
+- Whatever you create, it should be easy to understand. Development teams need clear requirements that are easy to act upon. This applies to all security advice, recommendations, and guidelines. Any vulnerabilities discovered in tests need to be easy to act on. It’s key that all people, processes, and tools involved bring solutions to the table instead of just pointing out problems
+
+3. #### Maintain a Growth Mindset
+- Since SSDLC will change how multiple teams work and interact, it’s important for everyone to go into this experience with an open mind, and for the security team to have the mindset of empowering developers to secure their own applications
+
+4. #### Tie Implementation to Other Initiatives
+- For well-established applications and teams, it may often be easier to implement SSDLC changes when it’s tied to another modernization effort, such as a cloud transformation, a DevOps initiative, or its more security-conscious variation, [DevSecOps](https://github.com/Lino-DC/DevSecOps).
+
+5. #### Tackle the Big Problems First
+- Focus on the most important issues and actionable fixes rather than addressing every vulnerability found. While it may be possible for newer or smaller applications to fix every security issue that exists, this won’t necessarily work in older and larger applications. A triage approach can also be helpful. This focuses on not only preventing security issues from making it into production, but also ensuring existing vulnerabilities are triaged and addressed over time.
+
+### SSDLC and DevSecOps
+- It’s important to discuss the relationship between SSDLC and [DevSecOps](https://github.com/Lino-DC/DevSecOps). They are sometimes used interchangeably, which can lead to confusion. While SSDLC and DevSecOps are closely linked, they are actually complementary practices. Both SSDLC and DevSecOps focus on empowering developers to have more ownership of their application, ensuring they are doing more than just writing and testing their code to meet functional specifications.
+- Secure SDLC is focused on how the application is designed and built; DevSecOps seeks to shift ownership of the production environment for each application away from traditional IT teams and into the hands of the developers. This lets developers focus on automating build, test, and release processes as much as possible.
+- DevOps and DevSecOps have started a revolution in redefining the role of software developers. This has of course been aided by other major changes, such as cloud transformations. But while empowering developers and accelerating security testing are key to success for most modern organizations, it would be a mistake to view application security as just an automation challenge. Instead, it’s important to drive cultural and process changes that help raise security awareness and considerations early in the development process. This must permeate all parts of the software development life cycle, regardless of whether one calls it SSDLC or DevSecOps.
+
+

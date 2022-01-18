@@ -11,7 +11,7 @@ Software Development Lifecycle
     * [3. Design](#3-Design)
     * [4. Software Development Stage](#4-Software-Development-Stage)
     * [5. Software Testing Stage](#5-Software-Testing-Stage)
-    * [6. Implementation & Integration](#6.Implementation-&-Integration)
+    * [6. Implementation & Integration](#6-Implementation-&-Integration)
     * [6. Operations & Maintenance](#6-Operations-&-Maintenance)
 - [Different Models](#Different-Models)
     * [1. Waterfall Model](#1-Waterfall-Model)
